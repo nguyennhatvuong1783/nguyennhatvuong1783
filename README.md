@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nguyen Nhat Vuong</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Engineer&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+
 <h3 align="center">A software engineer from VietNam</h3>
 
 - 🌱 I’m currently learning **React, AWS and Unity**
