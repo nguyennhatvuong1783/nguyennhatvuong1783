@@ -10,11 +10,11 @@
 
 <h3 align="center">A software engineer from VietNam</h3>
 
-- 🌱 I’m currently learning **React, AWS and Unity**
+- 🌱 I’m currently working with **Next.js, Strapi and Wordpress Custom theme**
 
 - 👨‍💻 My portfolio at [https://nguyennhatvuong1783.github.io/portfolio.github.io/](https://nguyennhatvuong1783.github.io/portfolio.github.io/)
 
-- 💬 Ask me about **react, laravel and springboot**
+- 💬 Ask me about **React, PHP and Next.js**
 
 - 📫 How to reach me **nhatvuong178@gmail.com**
 
